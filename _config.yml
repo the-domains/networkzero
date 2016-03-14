@@ -1,0 +1,28 @@
+name: NetworkZero
+favicon: null
+layout_spectrum: 0.591775291133672
+typography_spectrum: 0.7656113419216126
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.10643818229436874
+  lightness: 0.1445159032009542
+  saturation: 0.3774882487487048
+  rhythmicContrast: 0.13366065523587167
+purpose: []
